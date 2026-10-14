@@ -1,0 +1,60 @@
+{
+  "id": "0b932b0e-36ea-4312-a9fa-76198b2ec06a",
+  "name": "Bluebird",
+  "publisher": "LBMC Technology Solutions",
+  "version": "24.0.0.90",
+  "logo": "",
+  "runtime": "14.0",
+  "target": "Cloud",
+  "application": "25.0.0.0",
+  "platform": "28.0.54016.0",
+  "contextSensitiveHelpUrl": "https://Bluebird.com/help/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "dependencies": [
+    {
+      "id": "3c959f73-5fef-46ac-a8cf-0da8f7260611",
+      "name": "Binary Stream Inc License Management",
+      "version": "1.41.0.0",
+      "publisher": "Binary Stream Software Inc."
+    },
+    {
+      "id": "e7e4551c-46e4-40a0-98aa-d33dc1d10bde",
+      "name": "Multi-Entity Management (NA)",
+      "version": "1.1.142.1",
+      "publisher": "Binary Stream Software Inc."
+    },
+    {
+      "id": "6222ac85-c79d-4f3c-911d-2952e2a9e5cf",
+      "name": "Subscription Billing Suite",
+      "version": "1.45.2.0",
+      "publisher": "Binary Stream Software Inc."
+    },
+    {
+      "id": "b696b4c9-637c-49d1-a806-763ff8f0a20e",
+      "name": "IRS Forms",
+      "version": "27.4.45366.46399",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "5edfc036-b8a6-457d-85fc-cd9b3e09bc5e",
+      "name": "BlueBird TestApp",
+      "version": "1.0.0.1",
+      "publisher": "Default Publisher"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "build": {
+    "by": "AL Language Extension,17.0.2273547"
+    
+  }
+}
